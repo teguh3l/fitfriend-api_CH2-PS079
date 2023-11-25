@@ -1,0 +1,20 @@
+{
+  "name": "fitfriends-api",
+  "version": "1.0.0",
+  "description": "backend-api fitfriends for capstone project 2023",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "CH-PS079",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.6.0",
+    "firebase-admin": "^11.11.0",
+    "mongoose": "^8.0.1"
+  }
+}
